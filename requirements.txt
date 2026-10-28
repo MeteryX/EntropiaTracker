@@ -1,0 +1,4 @@
+# Requirements
+PySide6
+sqlalchemy
+tailer
